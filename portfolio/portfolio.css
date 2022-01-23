@@ -1,0 +1,42 @@
+img {
+  box-shadow: 0px 5px 5px lightslategray;
+  background-color: white;
+  /* mimic photo frame effect */
+
+  padding: 0.5rem;
+  max-width: 95%;
+  height: auto;
+
+  /* display: grid; */
+  margin: 0 auto;
+}
+
+.picHolder {
+  /* replaced with bootstrap container */
+  /* display: grid; */
+  /* grid-template-columns: repeat(3, 1fr); */
+  /* same as 1fr 1fr 1fr */
+  /* row-gap: 1em; */
+}
+
+.lomo {
+  filter: saturate(1.5) contrast(1.5) hue-rotate(-15deg);
+  /* ref: https://una.im/lomo/ */
+
+  opacity: 0.9;
+}
+
+aside {
+  margin-bottom: 4em;
+}
+
+/* override: remove the dotted */
+article a:hover {
+  color: green;
+  border: 1px solid transparent;
+}
+
+/* fade when hover on */
+img:hover {
+  opacity: 0.5;
+}

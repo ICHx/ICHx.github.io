@@ -1,0 +1,84 @@
+html {
+  font-family: "Segoe UI", Helvetica, Roboto, Geneva, Verdana, sans-serif;
+  /* I like the default style so much, not planning to reset */
+  /* kind of like the Medium.com style */
+  /* this file aim to mimic that experience */
+  min-height: 80%;
+}
+
+
+
+article {
+  padding-left: 5%;
+  padding-right: 7%;
+  min-width: 240px;
+  max-width: 70em;
+  font-family: serif;
+
+  /* limit viewport for better readability */
+  /* while on mobile, shrink the padding */
+  /* 80 character should be readable enough */
+
+  /* right requires more because of the scrollbar. */
+}
+
+body section {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  margin-left: 1rem;
+}
+
+body p {
+  text-align: justify;
+  hyphens: auto;
+  color: #3d4e4e;
+  /* font-size: larger; */
+  /* 文青灰 */
+}
+
+article h1+p{
+  /* tagline */
+  /* defined as first p after Headline */
+  font-size: medium;
+  font-style: italic;
+  color: gray;
+}
+
+nav {
+  padding-left: 0;
+  margin-left: 0;
+  overflow: hidden;
+  /* no scrollbar when too much contents */
+
+  margin-bottom: 1em;
+}
+
+a {
+  border: 1px dotted transparent;
+  /* makes position not shifting when hovering */
+}
+
+/* > is child selector */
+/* " " is descedant selector */
+article a:link {
+  color: rebeccapurple;
+  font-style: italic;
+}
+
+article a:visited {
+  color: rebeccapurple;
+}
+
+article a:hover {
+  color: green;
+  border: 1px dotted black;
+}
+
+/* ps class for remarks */
+.ps {
+  margin-left: 0.1em;
+  margin-right: 0.1em;
+  color: gray;
+  font-size: small;
+  font-style: italic;
+}

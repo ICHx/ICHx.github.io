@@ -1,0 +1,14 @@
+img {
+    box-shadow: 0px 5px 5px lightslategray;
+    background-color: white;
+    /* mimic photo frame effect */
+  
+    padding: 1rem;
+    max-width: 95%;
+    height: auto;
+  
+    display: grid;
+    margin: 0 auto;
+    margin-bottom: 2em;
+    /* center my pics */
+  }
