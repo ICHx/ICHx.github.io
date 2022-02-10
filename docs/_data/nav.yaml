@@ -1,7 +1,7 @@
 - name: Home
   link: /
 - name: Jekyll
-  link: /about
+  link: /about/
 - name: Me
   link: /me
 - name: Pics
