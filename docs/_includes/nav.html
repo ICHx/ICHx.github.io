@@ -1,0 +1,19 @@
+<nav class="navbar static-top navbar-expand-md navbar-light bg-light">
+    <a class="navbar-brand" href="#">ICHx</a>
+    <ul class="navbar-nav">
+        {% for item in site.data.nav%}
+        <li class="nav-item">
+            <a class="nav-link {%if page.url==item.link%} active {%endif%}" href="{{item.link}}">
+                {{item.name}}
+            </a>
+        </li>
+        <script>
+            console.log('{{item.link}}')
+        </script>
+        {%endfor%}
+
+    </ul>
+</nav>
+<script>
+    console.log('{{page.url}}')
+</script>
