@@ -128,3 +128,19 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+.DS_Store
+
+# jekyll
+*.gem
+/_tmp
+.bundle
+.sass-cache
+/_site
+Gemfile.lock
+vendor
+/.jekyll-cache
+*.swp
+*.swo
+*.*~
+/.vscode

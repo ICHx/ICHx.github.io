@@ -1,0 +1,74 @@
+---
+layout: page
+title: My Pics
+---
+<head>
+  <link rel="stylesheet" href="./portfolio.css" />
+</head>
+<p>
+  Some of My Pics as a photographer<span class="ps">(photographing noob)</span>.
+</p>
+
+<aside id="lomo-enabler" class="btn-group">
+  <button class="btn btn-warning" onclick="alert('Thanks');">Like!</button>
+  <button class="btn btn-dark" onclick="toggleLomo()">Lomo!</button>
+  <button class="btn btn-dark" onclick="tiltPics()">Tilt!</button>
+</aside>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm m-3">
+      <a href="1.jpg"><img src="1_thumb.jpg" alt="Pic here" /></a>
+    </div>
+    <div class="col-sm m-3">
+      <a href="2.jpg"><img src="2_thumb.jpg" alt="Pic here" /></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm m-3">
+      <a href="3.jpg"><img src="3_thumb.jpg" alt="Pic here" /></a>
+    </div>
+    <div class="col-sm m-3">
+      <a href="4.jpg"><img src="4_thumb.jpg" alt="Pic here" /></a>
+    </div>
+  </div>
+</div>
+
+<script>
+  const allPics = document.querySelectorAll(".container img");
+  const MAX_TILT = 10;
+  var lomo = 0;
+  tiltPics();
+
+  function toggleLomo() {
+    lomo += 1;
+    if (lomo % 2) {
+      enableLomo();
+      console.log("lomo mode enabled");
+    } else {
+      disableLomo();
+      console.log("lomo mode disabled");
+    }
+  }
+
+  function enableLomo() {
+    allPics.forEach((i) => {
+      i.classList.add("lomo");
+    });
+  }
+
+  function disableLomo() {
+    allPics.forEach((i) => {
+      i.classList.remove("lomo");
+    });
+  }
+
+  function tiltPics() {
+    const transform = `transform: rotate(10deg)`;
+    allPics.forEach((i) => {
+      let r = Math.random() * MAX_TILT - MAX_TILT / 2;
+      i.style.transform = `rotate(${r}deg)`;
+      console.log(i.style);
+    });
+  }
+</script>

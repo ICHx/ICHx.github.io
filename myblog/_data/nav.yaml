@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Jekyll
+  link: /about
+- name: Me
+  link: /me
+- name: Pics
+  link: /portfolio
