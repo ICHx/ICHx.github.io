@@ -6,7 +6,8 @@ layout: home
 title: Hi
 ---
 
-![alt](nft.png = 200x200)
+<!-- ![alt](nft.png) -->
+<img src="nft.png" alt="Pic here" class="imgframe" />
 
 Welcome to my home.
 
