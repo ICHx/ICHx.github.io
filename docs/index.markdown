@@ -6,6 +6,8 @@ layout: home
 title: Hi
 ---
 
+![alt](nft.png)
+
 Welcome to my home.
 
 This is a simple bio page made with Jekyll, styled with bootstrap.
