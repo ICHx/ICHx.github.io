@@ -7,7 +7,7 @@ title: Hi
 ---
 
 <!-- ![alt](nft.png) -->
-<img src="nft.png" alt="Pic here" class="imgframe" />
+<img src="nft.png" alt="Pic here" class="imgframe"  width="200" height="200"/>
 
 Welcome to my home.
 
