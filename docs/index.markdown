@@ -6,7 +6,7 @@ layout: home
 title: Hi
 ---
 
-![alt](nft.png)
+![alt](nft.png = 200x200)
 
 Welcome to my home.
 
