@@ -9,13 +9,21 @@ Hosted on Google Cloud Platform.
 * TOC
 {:toc}
 
+
+
 ## Geofencing Project (2021)
 
 ![picture 2](images/a1bc408ce63e1c8bb97f5f67918ebb31c4df3ef2ec204331ed475e69e0bd8938-1649909258054.png){: width="450"}
 
-Geofencing API using Java Spring Boot, GeoJSON spatial region data and JTS library
+Geofencing API built during internship.  Using Java Spring Boot, GeoJSON spatial region data and JTS library
 - [Try it](https://geofencing-springboot-dot-second-pursuit-310310.df.r.appspot.com/geofence?lat=22.421819&lng=114.335032)
 - [API](https://geofencing-springboot-dot-second-pursuit-310310.df.r.appspot.com/api/geofence?lat=22.421819&lng=114.335032)
+
+
+## Geospatial data visualization (2021)
+![](images/pokemon.jpg){: width="450"}
+
+This is an Angular component project during internship.  BUilt using Angular and Google Maps API to visualize datapoints. 
 
 ## e-student course selection (2020)
 
