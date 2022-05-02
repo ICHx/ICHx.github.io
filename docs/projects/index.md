@@ -21,9 +21,11 @@ Geofencing API built during internship.  Using Java Spring Boot, GeoJSON spatial
 
 
 ## Geospatial data visualization (2021)
-![](images/pokemon.jpg){: width="450"}
 
-This is an Angular component project during internship.  BUilt using Angular and Google Maps API to visualize datapoints. 
+[![pokemon](images/pokemon.jpg){: width="450"}](images/pokemon.jpg)
+
+
+This is an Angular component project during internship.  Built using Angular and Google Maps API to visualize datapoints. 
 
 ## e-student course selection (2020)
 
