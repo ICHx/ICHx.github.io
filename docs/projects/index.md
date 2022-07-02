@@ -9,6 +9,24 @@ Hosted on Google Cloud Platform.
 * TOC
 {:toc}
 
+## Bachelor in Computer Science Graduation Thesis (2022)
+
+
+### Application of improved approximate string search on Simplified/Traditional Chinese Address 繁簡漢字地址的模糊搜索研究與實踐
+
+Fun fact:
+
+My thesis was written in Markdown, processed with pandoc.
+
+![圖片](https://user-images.githubusercontent.com/11556527/177004652-94ac1c71-790b-4298-bd04-26c5c8e72a78.png){: width="450"}
+
+
+Based on NLP researches and information retrieval theories to improve Chinese information search use cases typo tolerance. 
+Demonstration based on API wrapper around a single node Elasticseach deployment, Kibana data view and a Python wxwidget GUI.
+
+This topic can benefit problem in other opensource project as well.  For example according to the discussion for issue on meilisearch.
+
+![圖片](https://user-images.githubusercontent.com/11556527/177004577-e02ce3ce-9067-4a48-9f49-337569f4e106.png){: width="450"}
 
 
 ## Geofencing Project (2021)
