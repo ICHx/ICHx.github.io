@@ -31,6 +31,8 @@ This topic can benefit problem in other opensource project as well.  For example
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A_k3z66zZbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
+
 ## Geofencing Project (2021)
 
 ![picture 2](images/a1bc408ce63e1c8bb97f5f67918ebb31c4df3ef2ec204331ed475e69e0bd8938-1649909258054.png){: width="450"}
