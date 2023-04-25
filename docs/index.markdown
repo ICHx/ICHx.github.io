@@ -16,11 +16,12 @@ I am a very adventurous person.  Get to know me on <a href="https://www.linkedin
 This is a simple bio page made with Jekyll, styled with bootstrap.
 
 
-## My Favourites
+## Favourites
 
-Have a peek of my fav playlists.
+Have a peek of my music taste.
 
 Misty
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5q03rwBCpHADmrdwuoRr49?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+<br/>
