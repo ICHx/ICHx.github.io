@@ -11,10 +11,7 @@ title: Hi
 
 Welcome to my home.
 
-I am a very adventurous person.  Get to know me on <a href="https://www.linkedin.com/in/hf-t-aa3537152/">Linkedin</a>.
-
-This is a simple bio page made with Jekyll, styled with bootstrap.
-
+I am a very adventurous person.  Get to know me on [LinkedIn](https://www.linkedin.com/in/ric-t-aa3537152/).
 
 ## Favourites
 
