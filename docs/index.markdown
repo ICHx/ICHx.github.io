@@ -15,5 +15,3 @@ Welcome to my home. Get to know me more on [LinkedIn](https://www.linkedin.com/i
 Have a peek of my music taste.
 
 <iframe style="border-radius:7px" src="https://open.spotify.com/embed/playlist/5q03rwBCpHADmrdwuoRr49?utm_source=generator" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<br/>
