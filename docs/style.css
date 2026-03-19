@@ -83,5 +83,5 @@ article a:hover {
 
 /* fix post listing too large */
 .post-link {
-  font-size: 1rem;
+  font-size: 1rem !important;
 }
