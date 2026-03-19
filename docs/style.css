@@ -80,3 +80,8 @@ article a:hover {
   font-size: small;
   font-style: italic;
 }
+
+/* fix post listing too large */
+.post-link {
+  font-size: 1rem;
+}
