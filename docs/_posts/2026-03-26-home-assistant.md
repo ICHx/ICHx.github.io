@@ -24,4 +24,4 @@ refs:
 
 #homekit #homeassistant #wireguard #openwrt
 
-![alt text](img/image.png)
+![alt text](images/image.png)
