@@ -1,10 +1,11 @@
+---
 - name: Home
   link: /
-- name: Jekyll
-  link: /about/
-- name: Projects
+- name: About Me
+  link: /me/
+- name: Blog
+  link: /blog/
+- name: My Projects
   link: /projects/
-- name: Me
-  link: /me
 - name: Pics
   link: /portfolio/
