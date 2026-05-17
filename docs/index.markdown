@@ -9,7 +9,7 @@ title: Hi, I am ICHx
 <!-- ![alt](nft.png) -->
 <img src="nft.png" alt="Pic here" class="imgframe"  width="200" height="200"/>
 
-Welcome to my home. Get to know me more on [LinkedIn](https://www.linkedin.com/in/ric-t-aa3537152/).
+Welcome to my home. Get to know me more on [Here](/me).
 
 ## Favourites
 Have a peek of my music taste.
