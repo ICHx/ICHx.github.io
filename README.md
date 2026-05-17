@@ -1,7 +1,11 @@
-# 20IAD-Pj1
-Sample personal homepage assignment
+You found my homepage.
 
 ## Build
 ```shell
-jekyll b --incremental
+cd docs/
+bundle install
+# build only
+bundle exec jekyll b --incremental
+# build and serve
+bundle exec jekyll serve --incremental
 ```
