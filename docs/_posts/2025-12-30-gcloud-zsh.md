@@ -8,9 +8,9 @@ With Mac, most of us install Oh My Zsh and Homebrew for efficient terminal manag
 Recently, I switched from Oh My Zsh to Prezto; seeing my shell ready in a second is deeply satisfying.
 
 cont:
-Although prezto is much faster, there came with a cost. I would be seeing bugs omz would have normally smoothed out for us behind the scene. 
+Although prezto is much faster, there came with a cost. I would be seeing bugs omz would have normally smoothed out for us behind the scene.
 
-This morning, just after I installed gcloud from brew, and find the completion not working, that dragged me down the rabbit hole. 
+This morning, just after I installed gcloud from brew, and find the completion not working, that dragged me down the rabbit hole.
 
 Checked fpath (normal), checked manual sourcing (it's working), but the completion is still not automatically picked up. AI told me to source manually, I know it would work, but it's not elegant.
 
@@ -19,7 +19,7 @@ A brief search led me to this "unplanned" issue in cask, saying that because the
 
 Adding that header line fixed the issue right away.
 
-the issue: 
+the issue:
 [google-cloud-sdk zsh autocompletion doesn't load automatically #143596](https://github.com/Homebrew/homebrew-cask/issues/143596)
 
 Google Cloud Google for Developers

@@ -29,7 +29,7 @@ Each socket input create a new connection, a new goroutine, while reusing the sa
 
 Fun fact: My thesis was written in pandoc markdown.
 
-Based on NLP researches and information retrieval theories to improve Chinese information search use cases typo tolerance. 
+Based on NLP researches and information retrieval theories to improve Chinese information search use cases typo tolerance.
 Demonstration based on API wrapper around a single node Elasticseach deployment, Kibana data view and a Python wxwidget GUI.
 
 This topic can benefit problem in other opensource project as well.  For example according to the discussion for issue on meilisearch.
@@ -60,7 +60,7 @@ Geofencing API built during internship.  Using Java Spring Boot, GeoJSON spatial
 [![pokemon](images/pokemon.jpg){: width="450"}](images/pokemon.jpg)
 
 
-This is an Angular component project during internship.  Built using Angular and Google Maps API to visualize datapoints. 
+This is an Angular component project during internship.  Built using Angular and Google Maps API to visualize datapoints.
 
 ## e-student course selection (2020)
 
@@ -68,7 +68,7 @@ This is an Angular component project during internship.  Built using Angular and
 
 Course selection web project in Vue2, with java REST API backend, SQLite database
 - possible usernames:{1001,3001,3002}
-- [Try it](https://second-pursuit-310310.df.r.appspot.com/) 
+- [Try it](https://second-pursuit-310310.df.r.appspot.com/)
 - [source](https://github.com/ICHx/DBS-selectCourse)
 
 ## College info database management project(2021)
@@ -76,7 +76,7 @@ Course selection web project in Vue2, with java REST API backend, SQLite databas
 
 Database CRUD management, in Vue3 and Java backend, using mysql database.
 - Sample Account=(netid=122235d, pin=122235dChan)
-- [Try it](http://gcp-wormfeed.duckdns.org:8002/) 
+- [Try it](http://gcp-wormfeed.duckdns.org:8002/)
 - [source](https://github.com/ICHx/dad21_finalProj)
 
 
