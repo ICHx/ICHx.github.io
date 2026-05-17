@@ -38,7 +38,7 @@ permalink: /me/
 - Decent foundation in Python, Java, programming knowledge, and Ansible, Bash in IaC development.
 - Passionate about learning and sharing
 - Bronze winner in Harmonic Hackathon 2025, studied on ARM hybrid cluster in 2 days, high intensity and fun!
-- Additionally a former sysadmin with solid tech background.
+- Additionally a former sysadmin with solid infra background.
 - Other Interests
   - Stardew Valley 🍓, Minecraft ⛏️, and other cozy games, (TF2 Engineer!👷🏻‍♂️)
   - Recent favourite: balatro🃏, a cozy roguelike game with a unique art style and engaging gameplay.
