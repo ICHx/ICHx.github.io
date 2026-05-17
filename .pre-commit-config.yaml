@@ -1,0 +1,32 @@
+exclude: |
+  ^docs/_site/
+
+repos:
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v5.0.0
+  hooks:
+  - id: check-added-large-files
+    args:
+    - --maxkb=1024
+  - id: check-case-conflict
+  - id: check-merge-conflict
+  - id: check-yaml
+  - id: end-of-file-fixer
+    exclude: ^docs/_site/
+  - id: mixed-line-ending
+    args:
+    - --fix=lf
+  - id: trailing-whitespace
+    args:
+    - --markdown-linebreak-ext=md
+    - --markdown-linebreak-ext=markdown
+
+- repo: https://github.com/igorshubovych/markdownlint-cli
+  rev: v0.45.0
+  hooks:
+  - id: markdownlint
+    args:
+    - --disable
+    - MD013
+    files: ^(README\.md|docs/.*\.(md|markdown))$
+    exclude: ^docs/_site/
