@@ -34,7 +34,7 @@ permalink: /me/
 - Blog and thoughts: [Here](/blog) and [Here Linkedin](https://www.linkedin.com/in/ric-t-aa3537152/)
 - SDE since 2022, specialized in cloud-native development.
 - Fast Pace, High energy, and always up for a challenge
-- Actively adopting LLM tools in workflow
+- a rigorous vibe coder using Claude
 - Decent foundation in Python, Java, programming knowledge, and Ansible, Bash in IaC development.
 - Passionate about learning and sharing
 - Bronze winner in Harmonic Hackathon 2025, studied on ARM hybrid cluster in 2 days, high intensity and fun!
